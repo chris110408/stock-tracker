@@ -4,7 +4,11 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7.1'
 
+gem 'devise'
+
 gem 'will_paginate','3.0.7'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 
 gem 'bootstrap-will_paginate','0.0.10'
 # Use SCSS for stylesheets
