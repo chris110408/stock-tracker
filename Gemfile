@@ -9,6 +9,7 @@ gem 'devise'
 gem 'will_paginate','3.0.7'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
 
 gem 'bootstrap-will_paginate','0.0.10'
 # Use SCSS for stylesheets
