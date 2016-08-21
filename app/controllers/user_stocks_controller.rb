@@ -51,14 +51,14 @@ class UserStocksController < ApplicationController
 
 
 
-  # PATCH/PUT /user_stocks/1
-  # def update
-  #   if @user_stock.update(user_stock_params)
-  #     redirect_to @user_stock, notice: 'User stock was successfully updated.'
-  #   else
-  #     render :edit
-  #   end
-  # end
+  PATCH/PUT /user_stocks/1
+  def update
+    if @user_stock.update(user_stock_params)
+      redirect_to @user_stock, notice: 'User stock was successfully updated.'
+    else
+      render :edit
+    end
+  end
 
   # DELETE /user_stocks/1
   def destroy
