@@ -1,6 +1,6 @@
-Stock tracker
-Use Devise for authentication
-customize devise 
-complex implementation of assciations
-use gem to lookup stocks
-using Ajax fetch form data
+Stock tracker\n
+Use Devise for authentication\n
+customize devise \n
+complex implementation of assciations\n
+use gem to lookup stocks\n
+using Ajax fetch form data\n
