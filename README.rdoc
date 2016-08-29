@@ -1,3 +1,6 @@
 Stock tracker
-
+Use Devise for authentication
+customize devise 
+complex implementation of assciations
+use gem to lookup stocks
 using Ajax fetch form data
